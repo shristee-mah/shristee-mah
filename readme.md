@@ -53,6 +53,9 @@ Building intelligent software systems with Machine Learning, Computer Vision, an
 
 ## 🌟 Featured Projects
 
+### 🔹 Career Copilot AI
+AI-powered career advisor using RAG and Langchain
+
 ### 🔹 VolleyWatch
 Volleyball play detection and analysis system using VideoMAE and YOLO.
 
