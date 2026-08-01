@@ -24,30 +24,40 @@ Building intelligent software systems with Machine Learning, Computer Vision, an
 ## 🛠️ Tech Stack
 
 ### Languages
-![Python](https://skillicons.dev/icons?i=python)
-![C](https://skillicons.dev/icons?i=c)
-![CPP](https://skillicons.dev/icons?i=cpp)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![PHP](https://skillicons.dev/icons?i=php)
+<img src="https://skillicons.dev/icons?i=python" alt="Python" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=c" alt="C" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=php" alt="PHP" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=html" alt="HTML" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=css" alt="CSS" width="48" height="48"/>
 
-### AI / ML
-![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
-![PyTorch](https://skillicons.dev/icons?i=pytorch)
-![OpenCV](https://skillicons.dev/icons?i=opencv)
+### AI / ML & Data Science
+<img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="48" height="48"/>
+<img src="https://shristeemaharjan.com.np/images/numpy.png" alt="NumPy" width="48" height="48"/>
+<img src="https://shristeemaharjan.com.np/images/pandas.png" alt="Pandas" width="48" height="48"/>
+<img src="https://shristeemaharjan.com.np/images/scikit.png" alt="scikit-learn" width="48" height="48"/>
+<img src="https://shristeemaharjan.com.np/images/matplotlib.png" alt="Matplotlib" width="48" height="48"/>
+<img src="https://shristeemaharjan.com.np/images/seaborn.png" alt="Seaborn" width="48" height="48"/>
+<img src="https://shristeemaharjan.com.np/images/langchain.png" alt="LangChain" width="48" height="48"/>
+<img src="https://shristeemaharjan.com.np/images/streamlit.png" alt="Streamlit" width="48" height="48"/>
 
-### Web & Database
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![React](https://skillicons.dev/icons?i=react)
-![NextJS](https://skillicons.dev/icons?i=nextjs)
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![SQLite](https://skillicons.dev/icons?i=sqlite)
+### Web & Backend
+<img src="https://skillicons.dev/icons?i=react" alt="React" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=nextjs" alt="NextJS" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" width="48" height="48"/>
 
-### Tools
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![VSCode](https://skillicons.dev/icons?i=vscode)
+### Databases
+<img src="https://shristeemaharjan.com.np/images/mysql.png" alt="MySQL" width="48" height="48"/>
+<img src="https://shristeemaharjan.com.np/images/sqlite.png" alt="SQLite" width="48" height="48"/>
+
+### Tools & Skills
+<img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="48" height="48"/>
+<img src="https://shristeemaharjan.com.np/images/dsa.png" alt="Data Structures & Algorithms" width="48" height="48"/>
 
 ---
 
