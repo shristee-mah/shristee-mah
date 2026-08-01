@@ -14,8 +14,8 @@ Building intelligent software systems with Machine Learning, Computer Vision, an
 
 ## 🚀 About Me
 
-- 🎓 Aspiring Computer Engineer
-- 🤖 Interested in Machine Learning & Deep Learning
+- 🎓 Computer Engineering Graduate
+- 🤖 Machine Learning & Deep Learning Enthusiast
 - 🔗 Exploring Blockchain Applications
 - 📊 Passionate about solving real-world problems
 
