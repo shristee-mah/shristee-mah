@@ -96,16 +96,6 @@ Satellite-based landslide detection using Deep Learning and Streamlit.
 
 </p>
 
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=shristee-mah&theme=github-dark"
-    alt="GitHub Streak"
-  />
-</p>
 
 ---
 
