@@ -87,17 +87,6 @@ Satellite-based landslide detection using Deep Learning and Streamlit.
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shristee-mah&show_icons=true&theme=github_dark"/>
-
-
-</p>
-
-
----
 
 ## 🌐 Connect With Me
 
